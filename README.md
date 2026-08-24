@@ -1,6 +1,6 @@
 # Development of a Library for Working with Cyclograms
 
-##The structure of the cyclograms library file:
+## The structure of the cyclograms library file:
 - Source files
    - Cyclogram.cpp
    - Cyclogram.h
