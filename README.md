@@ -1,5 +1,12 @@
 # Development of a Library for Working with Cyclograms
 
+##The structure of the cyclograms library file:
+- Source files
+   - Cyclogram.cpp
+   - Cyclogram.h
+   - main.cpp
+- Project 3.dev
+  
 ## Introduction
 
 Industrial robotics plays a key role among modern manufacturing technologies. Automation of operations using controlled robots makes it possible to increase labor productivity and ensure repeatability of movements. One of the basic concepts in robot control is a cyclogram — a description of its trajectory in the form of a sequence of reference points with time intervals and spatial coordinates.
